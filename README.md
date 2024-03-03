@@ -1,4 +1,4 @@
-IRON PARADISE
+**IRON PARADISE-A GYM MANAGEMENT WEBSITE**
 
 This website is built using only HTML, CSS, and JS. This project mainly focused on **CSS Design System** to make a website optimized and scalable.
 
